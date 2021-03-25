@@ -1,5 +1,1 @@
-# C++ Assignments for College
-
-This is a demo repo
-
-## SubHeader
+# C++ Assignments for College Second Year
