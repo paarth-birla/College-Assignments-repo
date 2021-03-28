@@ -1,1 +1,1 @@
-# C++ Assignments for College Second Year
+# C and C++ Assignments for College Second Year
