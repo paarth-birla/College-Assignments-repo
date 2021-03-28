@@ -1,0 +1,16 @@
+1   void    N
+2   main    N
+3   (       Y
+4   )       Y
+5   {       Y
+6   float   N
+7   ;       Y
+8   int     N
+9   =       N
+10  clrscr  Y
+11  printf  N 
+12  "       Y
+13  %       Y
+14  +       Y
+15  getch   Y
+16  }       Y

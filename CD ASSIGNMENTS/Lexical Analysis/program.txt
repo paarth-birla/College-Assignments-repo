@@ -1,0 +1,10 @@
+void main()
+{
+float area;
+int i=0;
+clrscr();
+printf("Welcome to IIIT Pune");
+i++;
+printf("%d",i);
+getch();
+}
